@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Asig3Prob2.1", "Asig3Prob2.1\Asig3Prob2.1.vbproj", "{949F1B3F-2CD3-45E6-AC7B-9843793DDB26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{949F1B3F-2CD3-45E6-AC7B-9843793DDB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949F1B3F-2CD3-45E6-AC7B-9843793DDB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949F1B3F-2CD3-45E6-AC7B-9843793DDB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949F1B3F-2CD3-45E6-AC7B-9843793DDB26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D64657BC-13B7-454F-BAFF-3547C6B89274}
+	EndGlobalSection
+EndGlobal

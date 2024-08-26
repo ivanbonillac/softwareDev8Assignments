@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Asig3Prob2.2/1.0.0": {
+        "runtime": {
+          "Asig3Prob2.2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asig3Prob2.2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

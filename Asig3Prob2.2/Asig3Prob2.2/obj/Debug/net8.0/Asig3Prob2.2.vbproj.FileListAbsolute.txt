@@ -1,0 +1,28 @@
+C:\Users\iandr\source\repos\Asig3Prob2.2\Asig3Prob2.2\bin\Debug\net8.0\Asig3Prob2.2.exe
+C:\Users\iandr\source\repos\Asig3Prob2.2\Asig3Prob2.2\bin\Debug\net8.0\Asig3Prob2.2.deps.json
+C:\Users\iandr\source\repos\Asig3Prob2.2\Asig3Prob2.2\bin\Debug\net8.0\Asig3Prob2.2.runtimeconfig.json
+C:\Users\iandr\source\repos\Asig3Prob2.2\Asig3Prob2.2\bin\Debug\net8.0\Asig3Prob2.2.dll
+C:\Users\iandr\source\repos\Asig3Prob2.2\Asig3Prob2.2\bin\Debug\net8.0\Asig3Prob2.2.pdb
+C:\Users\iandr\source\repos\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\Asig3Prob2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iandr\source\repos\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\Asig3Prob2.2.AssemblyInfoInputs.cache
+C:\Users\iandr\source\repos\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\Asig3Prob2.2.AssemblyInfo.vb
+C:\Users\iandr\source\repos\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\Asig3Prob2.2.vbproj.CoreCompileInputs.cache
+C:\Users\iandr\source\repos\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\Asig3Prob2.2.dll
+C:\Users\iandr\source\repos\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\refint\Asig3Prob2.2.dll
+C:\Users\iandr\source\repos\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\Asig3Prob2.2.pdb
+C:\Users\iandr\source\repos\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\Asig3Prob2.2.genruntimeconfig.cache
+C:\Users\iandr\source\repos\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\ref\Asig3Prob2.2.dll
+C:\Users\iandr\OneDrive - Universidad Tecnológica de Panamá\Universidad\Lic. Desarrollo de Software\4TO AÑO\II SEMESTRE\DES8\Asignaciones\Asig3IvanBonilla\Asig3Prob2.2\Asig3Prob2.2\bin\Debug\net8.0\Asig3Prob2.2.exe
+C:\Users\iandr\OneDrive - Universidad Tecnológica de Panamá\Universidad\Lic. Desarrollo de Software\4TO AÑO\II SEMESTRE\DES8\Asignaciones\Asig3IvanBonilla\Asig3Prob2.2\Asig3Prob2.2\bin\Debug\net8.0\Asig3Prob2.2.deps.json
+C:\Users\iandr\OneDrive - Universidad Tecnológica de Panamá\Universidad\Lic. Desarrollo de Software\4TO AÑO\II SEMESTRE\DES8\Asignaciones\Asig3IvanBonilla\Asig3Prob2.2\Asig3Prob2.2\bin\Debug\net8.0\Asig3Prob2.2.runtimeconfig.json
+C:\Users\iandr\OneDrive - Universidad Tecnológica de Panamá\Universidad\Lic. Desarrollo de Software\4TO AÑO\II SEMESTRE\DES8\Asignaciones\Asig3IvanBonilla\Asig3Prob2.2\Asig3Prob2.2\bin\Debug\net8.0\Asig3Prob2.2.dll
+C:\Users\iandr\OneDrive - Universidad Tecnológica de Panamá\Universidad\Lic. Desarrollo de Software\4TO AÑO\II SEMESTRE\DES8\Asignaciones\Asig3IvanBonilla\Asig3Prob2.2\Asig3Prob2.2\bin\Debug\net8.0\Asig3Prob2.2.pdb
+C:\Users\iandr\OneDrive - Universidad Tecnológica de Panamá\Universidad\Lic. Desarrollo de Software\4TO AÑO\II SEMESTRE\DES8\Asignaciones\Asig3IvanBonilla\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\Asig3Prob2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iandr\OneDrive - Universidad Tecnológica de Panamá\Universidad\Lic. Desarrollo de Software\4TO AÑO\II SEMESTRE\DES8\Asignaciones\Asig3IvanBonilla\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\Asig3Prob2.2.AssemblyInfoInputs.cache
+C:\Users\iandr\OneDrive - Universidad Tecnológica de Panamá\Universidad\Lic. Desarrollo de Software\4TO AÑO\II SEMESTRE\DES8\Asignaciones\Asig3IvanBonilla\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\Asig3Prob2.2.AssemblyInfo.vb
+C:\Users\iandr\OneDrive - Universidad Tecnológica de Panamá\Universidad\Lic. Desarrollo de Software\4TO AÑO\II SEMESTRE\DES8\Asignaciones\Asig3IvanBonilla\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\Asig3Prob2.2.vbproj.CoreCompileInputs.cache
+C:\Users\iandr\OneDrive - Universidad Tecnológica de Panamá\Universidad\Lic. Desarrollo de Software\4TO AÑO\II SEMESTRE\DES8\Asignaciones\Asig3IvanBonilla\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\Asig3Prob2.2.dll
+C:\Users\iandr\OneDrive - Universidad Tecnológica de Panamá\Universidad\Lic. Desarrollo de Software\4TO AÑO\II SEMESTRE\DES8\Asignaciones\Asig3IvanBonilla\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\refint\Asig3Prob2.2.dll
+C:\Users\iandr\OneDrive - Universidad Tecnológica de Panamá\Universidad\Lic. Desarrollo de Software\4TO AÑO\II SEMESTRE\DES8\Asignaciones\Asig3IvanBonilla\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\Asig3Prob2.2.pdb
+C:\Users\iandr\OneDrive - Universidad Tecnológica de Panamá\Universidad\Lic. Desarrollo de Software\4TO AÑO\II SEMESTRE\DES8\Asignaciones\Asig3IvanBonilla\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\Asig3Prob2.2.genruntimeconfig.cache
+C:\Users\iandr\OneDrive - Universidad Tecnológica de Panamá\Universidad\Lic. Desarrollo de Software\4TO AÑO\II SEMESTRE\DES8\Asignaciones\Asig3IvanBonilla\Asig3Prob2.2\Asig3Prob2.2\obj\Debug\net8.0\ref\Asig3Prob2.2.dll
